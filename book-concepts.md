@@ -1,7 +1,7 @@
 # Some concepts
-- **Nonspatial data**: describes how values are distributed
+- **Nonspatial data**: describes how values are distributed.
 
-- **Spatial analysis**: examines the relationships between features identified within a geographic boundary
+- **Spatial analysis**: examines the relationships between features identified within a geographic boundary.
 
 - Geospatial data allows us to comprehend the interconnectivity of all systems of the planed (identified by AGCI): atmosphere, cryosphere, hydrosphere, biosphere, geosphere, and anthroposphere.
 
